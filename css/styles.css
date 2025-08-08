@@ -3273,6 +3273,16 @@ img.u-pull-left {
     opacity        : .2;
 }
 
+.project-intro {
+    padding-top: 30rem;
+    padding-bottom: 20rem;
+    background-color: white;
+}
+
+.s-pagewrap.project {
+    min-height: unset !important;
+}
+
 /* ------------------------------------------------------------------- 
  * responsive:
  * intro
