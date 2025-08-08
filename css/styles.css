@@ -3781,7 +3781,7 @@ img.u-pull-left {
 }
 
 .testimonial-slider__slide p {
-    font-size   : var(--text-xl);
+    font-size   : var(--text-lg);
     line-height : 1.6244;
 }
 
