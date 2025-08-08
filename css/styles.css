@@ -1651,9 +1651,9 @@ hr.fancy::before {
 .pull-quote blockquote {
     border      : none;
     margin      : 0 auto;
-    max-width   : 62rem;
     padding-top : var(--vspace-2_5);
     position    : relative;
+    padding-bottom: 0;
 }
 
 .pull-quote blockquote p {
