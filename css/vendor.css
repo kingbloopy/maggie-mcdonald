@@ -1043,6 +1043,7 @@ button.swiper-pagination-bullet {
     height   : auto;
     top      : 0;
     left     : 0;
+    object-fit: contain;
 }
 
 /*
