@@ -4171,3 +4171,13 @@ img.u-pull-left {
         width  : 1.6rem;
     }
 }
+
+
+/* Custom Styling */
+
+.row.giphs {
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 4fr 1fr;
+    grid-gap: 10px;
+}
