@@ -4181,3 +4181,7 @@ img.u-pull-left {
     grid-template-columns: 4fr 1fr;
     grid-gap: 10px;
 }
+
+.project-name {
+    flex-direction: column;
+}
