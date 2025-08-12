@@ -4187,7 +4187,7 @@ img.u-pull-left {
 }
 
 @media screen and (min-width: 900px){
-    .figma-flo {
+    .figma-bella {
         display: flex;
         flex-direction: row;
         width: 100%;
@@ -4195,6 +4195,14 @@ img.u-pull-left {
     }
 }
 
-.figma-grid {
-
+.story-button {
+    border-color: white;
+    color: white;
+    transition: all .5s;
+}
+.story-button:hover {
+    background: var(--color-body) !important;
+    color: var(--color-btn-stroke-hover) !important;
+    border: 2px solid var(--color-body);
+    transition: all .5s;
 }
