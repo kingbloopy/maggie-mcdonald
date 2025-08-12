@@ -4244,5 +4244,24 @@ img.u-pull-left {
 
 .art-text {
     color: #727272;
-    margin: 4rem 0;
+    margin: 6rem 0;
+}
+
+.logos {
+    column-gap: 30px;
+}
+
+.logo-pic {
+    margin-bottom: 20px;
+}
+
+.logo-section {
+    background-color: #252a2a;
+    padding: 12rem 0;
+}
+
+.logo-section h1 {
+    color: white;
+    margin: unset;
+    margin-bottom: 6rem;
 }
