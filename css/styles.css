@@ -4185,3 +4185,16 @@ img.u-pull-left {
 .project-name {
     flex-direction: column;
 }
+
+@media screen and (min-width: 900px){
+    .figma-flo {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        gap: 20px;
+    }
+}
+
+.figma-grid {
+
+}
