@@ -4216,3 +4216,33 @@ img.u-pull-left {
     border: 2px solid var(--color-body);
     transition: all .5s;
 }
+
+.art-wrapper {
+    column-count: 3;
+    column-gap: 10px;
+    margin: unset;
+}
+
+.pic-wrapper {
+    display: none;
+    text-decoration: none;
+    border-radius: 6px;
+    margin: 0;
+    display: grid;
+    grid-template-rows: 1fr auto;
+    break-inside: avoid;
+}
+
+.art-img {
+    border-radius: 6px;
+    max-width: 100%;
+    display: block;
+    grid-row: 1 / -1;
+    grid-column: 1;
+    margin-bottom: 10px;
+}
+
+.art-text {
+    color: #727272;
+    margin: 4rem 0;
+}
