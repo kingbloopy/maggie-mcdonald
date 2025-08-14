@@ -4269,3 +4269,19 @@ img.u-pull-left {
 figure img {
     border-radius: var(--border-radius);
 }
+
+.gif-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+@media screen and (min-width: 540px) {
+    .gif-grid {
+        display: grid;
+        grid-template-rows: 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-gap: 10px;
+        margin-bottom: 60px;
+    }
+}
