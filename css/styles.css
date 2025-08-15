@@ -4285,3 +4285,15 @@ figure img, .folio-item__thumb-link, .s-intro__bg, .s-intro__bg::after {
         margin-bottom: 60px;
     }
 }
+
+.grandfolia-logos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+.grandfolia-logos figure:last-child {
+    width: 40%;
+}
