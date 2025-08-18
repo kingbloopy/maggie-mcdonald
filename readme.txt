@@ -1,6 +1,7 @@
-I am an experienced <i>Senior Product & UX Manager</i> with a background in frontend engineering, specializing in product strategy & design, user experience (UX/UI) and software development.
+I am an experienced Senior Product & UX Manager with a background in frontend engineering, specializing in product strategy & design, user experience (UX/UI) and software development.
 
 Outside of work, you can find me embracing the outdoors. Whether it’s mountain biking, snowboarding, hiking, rock climbing, trail running, camping, or river rafting. I’m passionate about living life to the fullest and bringing that same energy and focus to my professional endeavors.
+
 
 
 
